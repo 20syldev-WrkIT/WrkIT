@@ -22,9 +22,11 @@
         "express": "^5.2.1"
     },
     "overrides": {
+        "@humanfs/node": "^0.16.8",
         "body-parser": "^2.3.0",
         "brace-expansion": "^5.0.9",
         "esbuild": "^0.28.1",
+        "qs": "^6.16.0",
         "undici": "^6.28.0",
         "ws": "^8.21.0"
     },
